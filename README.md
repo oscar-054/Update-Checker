@@ -24,7 +24,7 @@ When a new version is available, click Yes to open the download page, then run t
 
 Left click the BIND button then enter a key or mouse button to bind that option.
 
-Right click an option that has a button bind already to un-bind it.
+Right click an option that has a bind already to un-bind it.
 
 ## Troubleshooting
 
