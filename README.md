@@ -28,7 +28,7 @@ Antivirus flags it The app uses global keyboard and mouse hooks, which some anti
 
 Settings window or overlay is off-screen Use the overlay presets to snap it back to a corner.
 
-## If you have any ideas on what to add or find any bugs message me on discord my user is: 0netapp
+### If you have any ideas on what to add or find any bugs message me on discord my user is: 0netapp
 
 ![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Overlay.png)
 ![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Options.png)
