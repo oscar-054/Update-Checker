@@ -1,24 +1,26 @@
-### oscars Calc
+## oscars Calc
 
 A small always-on-top overlay for Windows that helps with 6-ball puzzle codes in Apeirophobia.
 
-### Install
+## Install
 
 Go to the Releases page
+
 Download OscarsCalc-Setup.exe
+
 Run it and follow the steps
 
 It installs like any normal app. You can find it in the Start menu, and you can uninstall it from Settings → Apps → Installed apps.
 
 Windows SmartScreen warning? The installer isn't code-signed, so Windows may say "unknown publisher". Click More info → Run anyway.
 
-### Updating
+## Updating
 
 The app checks for updates when it starts (you can turn this off in Settings). You can also press Check Now in Settings.
 
 When a new version is available, click Yes to open the download page, then run the new installer. It installs over the old version, and your settings are kept.
 
-### Troubleshooting
+## Troubleshooting
 
 My binds don't do anything Open Test My Binds. If it says the keyboard hook is not running, right-click the app and choose Run as administrator. This is needed in some games and setups.
 
