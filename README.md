@@ -20,6 +20,12 @@ The app checks for updates when it starts (you can turn this off in Settings). Y
 
 When a new version is available, click Yes to open the download page, then run the new installer. It installs over the old version, and your settings are kept.
 
+## Key Binding
+
+Left click the BIND button then enter a key or mouse button to bind that option.
+
+Right click an option that has a button bind already to un-bind it.
+
 ## Troubleshooting
 
 My binds don't do anything Open Test My Binds. If it says the keyboard hook is not running, right-click the app and choose Run as administrator. This is needed in some games and setups.
