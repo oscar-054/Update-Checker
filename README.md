@@ -27,3 +27,10 @@ My binds don't do anything Open Test My Binds. If it says the keyboard hook is n
 Antivirus flags it The app uses global keyboard and mouse hooks, which some antivirus programs treat as suspicious. It's a false positive, but you may need to add an exception.
 
 Settings window or overlay is off-screen Use the overlay presets to snap it back to a corner.
+
+![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Overlay.png)
+![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Options.png)
+![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Settings1.png)
+![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Settings2.png)
+![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Profiles.png)
+![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Tray.png)
