@@ -40,5 +40,8 @@ Settings window or overlay is off-screen Use the overlay presets to snap it back
 ![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Options.png)
 ![image alt](https://github.com/oscar-054/oscars-Calc/blob/b75d3df51a55a4bd006b66ebd128b193acd78f4b/Settings1.png)
 ![image alt](https://github.com/oscar-054/oscars-Calc/blob/e85bdf75ff68ddcaec86cc6d97df981eaf93feeb/Settings2.png)
+![image alt](https://github.com/oscar-054/oscars-Calc/blob/d1f1f31d6fea1b6dc4d28f615cbd114bf8a20e0b/Presets.png)
+![image alt](https://github.com/oscar-054/oscars-Calc/blob/d1f1f31d6fea1b6dc4d28f615cbd114bf8a20e0b/History.png)
+![image alt](https://github.com/oscar-054/oscars-Calc/blob/d1f1f31d6fea1b6dc4d28f615cbd114bf8a20e0b/Test.png)
 ![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Profiles.png)
 ![image alt](https://github.com/oscar-054/Update-Checker/blob/f0f7db48ee5228d075fe71721fee47fb49b4b7fc/Tray.png)
